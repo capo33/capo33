@@ -38,6 +38,15 @@
 <br />
 <br />
 
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/Mohamed33727072
 [instagram]: https://www.instagram.com/egy_kapo
 [linkedin]: www.linkedin.com/in/mohamed-capo
