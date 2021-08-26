@@ -36,6 +36,7 @@
 
 <br />
 <br />
+
 ---
 
 <details>
@@ -44,6 +45,9 @@
   <img align="left" alt="capo33 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=capo33&show_icons=true&hide_border=true" />
 
 </details>
+
+<br />
+<br />
 
 ---
 
