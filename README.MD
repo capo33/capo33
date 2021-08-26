@@ -36,7 +36,6 @@
 
 <br />
 <br />
-
 ---
 
 <details>
@@ -45,6 +44,11 @@
   <img align="left" alt="capo33 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=capo33&show_icons=true&hide_border=true" />
 
 </details>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capo33&exclude_repo=github-readme-stats,capo33.github.io)](https://github.com/capo33/github-readme-stats)
+
 
 [twitter]: https://twitter.com/Mohamed33727072
 [instagram]: https://www.instagram.com/egy_kapo
