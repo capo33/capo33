@@ -1,11 +1,11 @@
 ### Hey buddy, I'm Mohamed ( Capo ) 👋
 
 ## I'm a Web Development Student @Business College Helsinki!!
-- 🌱 I am currently looking for front-end / back-end internship
-- 💻 I’m currently learning react, mySql, python
+- 🌱 I am currently full-stack developer trainee at Integrify
+- 💻 I’m currently learning react with typescript, redux, unity
 - 👀 I’m interested in making web applications as well as creating games.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Create and launch my own game 
+- 🥅 2022 Goals: Create and launch my own game and useful app 
 - ⚡ Fun fact: I love to play with bubbles 💧
 
 ### Connect with me:
