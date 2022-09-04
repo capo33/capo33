@@ -1,8 +1,7 @@
 ### Hey buddy, I'm Mohamed ( Capo ) 👋
 
-## I'm a Web Development Student @Business College Helsinki!!
-- 🌱 I am currently full-stack developer trainee at Integrify
-- 💻 I’m currently learning react with typescript, redux, unity
+## I'm a Junior software developer at Nordcloud
+- 💻 I’m currently moving forward with react and typescript, unity, AWS, python
 - 👀 I’m interested in making web applications as well as creating games.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Create and launch my own game and useful app 
@@ -45,6 +44,4 @@
 
 
 [twitter]: https://twitter.com/Mohamed33727072
-[instagram]: https://www.instagram.com/egy_kapo
 [linkedin]: https://www.linkedin.com/in/mohamed-capo/
-[facebook]: https://www.facebook.com/profile.php?id=599905285   
