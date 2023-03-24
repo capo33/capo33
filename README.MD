@@ -9,9 +9,23 @@
 
 - 💬 Ask me about **react, typescript, monogodb**
 
+- 💻 I’m currently moving forward with react and typescript, unity, AWS, python
+
+- 👀 I’m interested in making web applications as well as creating games.
+
+- 👯 I’m looking to collaborate with other content creators
+
+- 🥅 2023 Goals: Create and launch my own game and useful app 
+
 - 📫 How to reach me **madel413@gmail.com**
 
-- ⚡ Fun fact **I love kids toys 😁**
+- ⚡ Fun facts **I love to play with bubbles 💧, I love kids toys 😁**
+
+### Connect with me:
+
+[<img align="left" alt="capo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="capo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +40,30 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=capo33&" alt="capo33" /></p>
 
+### Hey buddy, I'm Mohamed ( Capo ) 👋
+
+## I'm a Junior software developer at Nordcloud
+- 💻 I’m currently moving forward with react and typescript, unity, AWS, python
+- 👀 I’m interested in making web applications as well as creating games.
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Create and launch my own game and useful app 
+- ⚡ Fun fact: I love to play with bubbles 💧
+
+### Connect with me:
+
+[<img align="left" alt="capo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="capo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="capo33 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=capo33&show_icons=true&hide_border=true" />
+
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capo33&exclude_repo=github-readme-stats,capo33.github.io)](https://github.com/capo33/github-readme-stats)
+
+
+[twitter]: https://twitter.com/Mohamed33727072
+[linkedin]: https://www.linkedin.com/in/mohamed-capo/
