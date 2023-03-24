@@ -33,13 +33,14 @@
   <summary>:zap: GitHub Stats</summary>
    <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=capo33&show_icons=true&locale=en&layout=compact" alt="capo33 GitHub Stats" />   </p>
-</details>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capo33&exclude_repo=github-readme-stats,capo33.github.io)](https://github.com/capo33/github-readme-stats)
- -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=capo33&show_icons=true&locale=en" alt="capo33" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=capo33&show_icons=true&locale=en" alt="capo33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=capo33&" alt="capo33" /></p>
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capo33&exclude_repo=github-readme-stats,capo33.github.io)](https://github.com/capo33/github-readme-stats)
+
+
 
 
 [twitter]: https://twitter.com/Mohamed33727072
