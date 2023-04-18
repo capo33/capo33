@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **madel413@gmail.com**
 
-- ⚡ Fun facts **I love to play with bubbles 💧, I love kids toys 😁**
+- ⚡ Fun facts **I love to play with bubbles 💧, I love toys 😁**
 
 <h3 align="left">Connect with me:</h3>
 
