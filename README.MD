@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=capo33" alt="capo33" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mohamed-dev-portfolio.netlify.app/](https://mohamed-dev-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohamed-dev-portfolio.netlify.app/]([https://mohamed-dev-portfolio.netlify.app/](https://main.ddjrt3cajbez4.amplifyapp.com/))
 
 - 💬 Ask me about **react, typescript, monogodb**
 
