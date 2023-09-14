@@ -9,13 +9,13 @@
 
 - 💬 Ask me about **react, typescript, monogodb, mern**
 
-- 💻 I’m currently moving forward with react and typescript, unity, AWS, python
+- 💻 I’m currently learning, .NET, AWS, python
 
 - 👀 I’m interested in making web applications as well as creating games.
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 🥅 2023 Goals: Create and launch my own game and useful app
+- 🥅 2023 Goals: Create and launch my own game & useful wep application
 
 - 📫 How to reach me **madel413@gmail.com**
 
