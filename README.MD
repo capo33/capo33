@@ -1,4 +1,4 @@
-![alt text](./github-header-image.png)
+![alt text](./github-banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capo33&label=Profile%20views&color=0e75b6&style=flat" alt="capo33" /> </p>
 
@@ -20,7 +20,6 @@
 - 📫 How to reach me **madel413@gmail.com**
 
 - ⚡ Fun facts **I love to play with bubbles 💧, I love toys 😁**
-
 
 ## 🌐 Socials:
 
