@@ -1,5 +1,4 @@
-<!-- ![alt text](./image.png) -->
-<img src="https://www.figma.com/proto/UbDDg4bDS0gVev9BdHtYHP/README-Github-Banner-(Community)?type=design&node-id=0-67&t=PK8ZyxCWgvYrhkIz-1&scaling=scale-down-width&page-id=0%3A1&mode=design" />
+![alt text](./github-header-image%20(1).png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capo33&label=Profile%20views&color=0e75b6&style=flat" alt="capo33" /> </p>
 
