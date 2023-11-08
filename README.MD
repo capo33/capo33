@@ -1,13 +1,22 @@
-```swift
-public struct AboutMe {
-    const name = "Mohamed Mahmoud"
-    const pronouns = ["he","him"]
-    
-    let profession = "Software Developer & Web Designer"
-    
-    let preferredTechStack = ["Typescript", "React", "Redux", "PostgreSQL", "Node", ...]
-    Let hasUsed = ["Next", "Nuxt", "C#"]
+```typescript
+puplic class AboutME {
+  readonly name: string;
+  readonly pronouns: string[];
+  public profession: string;
+  public preferredTechStack: string[];
+  public hasUsed: string[];
+
+  constructor() {
+    this.name = "Mohamed Mahmoud";
+    this.pronouns = ["he", "him"];
+    this.profession = "Software Developer & Web Designer";
+    this.preferredTechStack = ["React", "NodeJS", "MongoDB"];
+    this.hasUsed = ["React", "NodeJS", "MongoDB", "Express", "TypeScript"];
+  }
 }
+
+const aboutMe = new AboutME();
+
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capo33&label=Profile%20views&color=0e75b6&style=flat" alt="capo33" /> </p>
