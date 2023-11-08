@@ -1,6 +1,16 @@
 ![alt text](./github-banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=capo33&label=Profile%20views&color=0e75b6&style=flat" alt="capo33" /> </p>
+```swift
+public struct AboutMe {
+    const name = "Mohamed Mahmoud"
+    const pronouns = ["he","him"]
+    
+    let profession = "Software Developer & Web Designer"
+    
+    let preferredTechStack = ["Typescript", "React", "Redux", "PostgreSQL", "Node", "..."]
+    Let hasUsed = ["Next", "Nuxt", "C#"]
+}
+```
 
 # 💫 About Me:
 
