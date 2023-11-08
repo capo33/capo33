@@ -1,23 +1,4 @@
-```typescript
-puplic class AboutME {
-  readonly name: string;
-  readonly pronouns: string[];
-  public profession: string;
-  public preferredTechStack: string[];
-  public hasUsed: string[];
-
-  constructor() {
-    this.name = "Mohamed Mahmoud";
-    this.pronouns = ["he", "him"];
-    this.profession = "Software Developer & Web Designer";
-    this.preferredTechStack = ["React", "NodeJS", "MongoDB"];
-    this.hasUsed = ["React", "NodeJS", "MongoDB", "Express", "TypeScript"];
-  }
-}
-
-const aboutMe = new AboutME();
-
-```
+![alt text](./details.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capo33&label=Profile%20views&color=0e75b6&style=flat" alt="capo33" /> </p>
 
