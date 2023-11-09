@@ -1,4 +1,5 @@
-![alt text](./dancingmen.gif)
+<!-- ![alt text](./dancingmen.gif) -->
+<p align="center"> <img src="./dancingmen.gif" alt="capo33" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capo33&label=Profile%20views&color=0e75b6&style=flat" alt="capo33" /> </p>
 
