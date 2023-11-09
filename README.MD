@@ -1,4 +1,4 @@
-![alt text](./github-header-image%20(1).png)
+![alt text](./welcome.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capo33&label=Profile%20views&color=0e75b6&style=flat" alt="capo33" /> </p>
 
