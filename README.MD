@@ -32,7 +32,7 @@
 # 💻 Main Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,js,ts,react,redux,docker,nodejs,visualstudio,prisma,express,mongodb,postgresql,graphql,postman,netlify,aws,git,github,githubactions,cs,unity)](https://skillicons.dev)
 
-## 👀 I have touched:
+## ⌨ I have touched:
 [![My Skills](https://skillicons.dev/icons?i=next,angular,nuxt,golang,python)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
