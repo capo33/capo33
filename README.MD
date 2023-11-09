@@ -56,7 +56,5 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Snake animation](https://github.com/{{capo33}}/{{capo33}}/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
