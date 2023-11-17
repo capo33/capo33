@@ -6,17 +6,17 @@
 # 💫 About Me:
 
 - 👨‍💻 All of my projects are available at
-  [https://main.ddjrt3cajbez4.amplifyapp.com/] or [https://mohamed-dev-portfolio.netlify.app/]
+  [https://mohamed-dev-profile.netlify.app/] OR old one [https://main.ddjrt3cajbez4.amplifyapp.com/]
 
 - 💬 Ask me about **react, typescript, monogodb, mern**
 
-- 💻 I’m currently learning Cloud Computing AWS, python
+- 💻 I’m currently learning Cloud Computing **AWS, python**
 
 - 👀 I’m interested in making web applications as well as creating games.
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 🥅 2023 Goals: Create and launch my own game & useful wep application
+- 🥅 2023 Goals: Making useful wep application & create and launch my own game
 
 - 📫 How to reach me **madel413@gmail.com**
 
