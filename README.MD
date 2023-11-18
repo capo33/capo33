@@ -6,7 +6,7 @@
 # 💫 About Me:
 
 - 👨‍💻 All of my projects are available at
-  [https://mohamed-dev-profile.netlify.app/] OR old one [https://main.ddjrt3cajbez4.amplifyapp.com/]
+  [https://main.d241ni5mslej6t.amplifyapp.com] OR old one [https://main.ddjrt3cajbez4.amplifyapp.com]
 
 - 💬 Ask me about **react, typescript, monogodb, mern**
 
